@@ -1,6 +1,6 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
-def parrot(String, "Squawk!")
-  puts String
-  return String "Squawk!"
+def parrot(S, "Squawk!")
+  puts S
+  return S "Squawk!"
 end
